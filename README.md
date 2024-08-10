@@ -9,17 +9,5 @@ Player statistics
 Feature engineering and selection
 Model training and evaluation using Random Forest
 
-Dataset
-The dataset used in this project includes historical IPL match data with the following features:
 
-Match ID
-Date
-Team1
-Team2
-Toss Winner
-Toss Decision
-Winner
-Player of the Match
-Team1 Score
-Team2 Score
-Other relevant statistics
+
